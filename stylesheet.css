@@ -109,8 +109,7 @@ body * {
   }
 
   #logoserrilhada {
-    width: 25vh; /* ou qualquer valor desejado para telas menores */
-    height: 20vh; /* ou qualquer valor desejado para telas menores */
+    width: 70%; /* ou qualquer valor desejado para telas menores */
   }
 
   #lightmode {
