@@ -90,7 +90,7 @@ body * {
 }
 @media (max-width: 768px) {
   .containercadastro {
-    width: 80%; /* ou qualquer valor desejado para telas menores */
+    width: 70%; /* ou qualquer valor desejado para telas menores */
   }
 
   #logoserrilhada {
