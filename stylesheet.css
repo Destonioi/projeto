@@ -103,14 +103,13 @@ body * {
   border: 1vh solid var(--border-color);
   transition: opacity 0.5s ease;
 }
-@media (max-width: 768px) {
+@media (max-width: 500px) {
   .containercadastro {
-    width: 70%; /* ou qualquer valor desejado para telas menores */
-    top: 6%;
+    width: 80%; /* ou qualquer valor desejado para telas menores */
   }
 
   #logoserrilhada {
-    width: 20vh; /* ou qualquer valor desejado para telas menores */
+    width: 25vh; /* ou qualquer valor desejado para telas menores */
     height: 20vh; /* ou qualquer valor desejado para telas menores */
   }
 
