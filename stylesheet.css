@@ -110,6 +110,7 @@ body * {
 
   #logoserrilhada {
     width: 50%; /* ou qualquer valor desejado para telas menores */
+    top: 10%;
   }
 
   #lightmode {
