@@ -109,8 +109,8 @@ body * {
   }
 
   #logoserrilhada {
-    width: 50%; /* ou qualquer valor desejado para telas menores */
-    top: 3%;
+     /* ou qualquer valor desejado para telas menores */
+    top: 2%;
     left: 50%;
   }
 
